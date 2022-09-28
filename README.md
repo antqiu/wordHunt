@@ -16,5 +16,5 @@
 - Classes and Composition: Array of Box classes within the Game Class
 - Mouse Interactions: Detect which Box the mouse is in
 
-
-
+###Demonstration 
+![](https://github.com/antqiu/wordHunt/blob/main/demo.gif)
