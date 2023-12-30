@@ -11,7 +11,7 @@ A computerized clone of Game Pigeon's WordHunt made in Processing Java.
 ### Configurations
 - Timer Duration: Line 15 of the Game File
 - Text Size: Line 2 of the wordHuntv2 file
--
+
 - ### Concepts 
 - String Handling and Lookup: Test whether or not the chosen word is valid given a list of valid words
 - Classes and Composition: Array of Box classes within the Game Class
